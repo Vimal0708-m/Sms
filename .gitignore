@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-*
-!data/
-!.gitignore
-=======
 *.log
 .DS_Store
 .env
@@ -30,4 +25,3 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
->>>>>>> f8ebfc97baa9aa84dfe0c586f44a66884dc13ba0
